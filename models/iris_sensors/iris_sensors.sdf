@@ -1,0 +1,7 @@
+<sdf version='1.6'>
+  <model name='iris_sensors'>
+    <include>
+      <uri>model://iris</uri>
+    </include>
+  </model>
+</sdf>
