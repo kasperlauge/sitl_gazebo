@@ -12,7 +12,7 @@
         <collision name="collision">
           <geometry>
             <heightmap>
-              <uri>file://media/dem/Hep.tif</uri>
+              <uri>model://Hep.tif</uri>
               <size>200 200 10</size>
               <pos>0 0 0</pos>
             </heightmap>
@@ -45,7 +45,7 @@
                 <min_height>4</min_height>
                 <fade_dist>5</fade_dist>
               </blend>
-              <uri>file://media/dem/Hep.tif</uri>
+              <uri>model://Hep.tif</uri>
               <size>200 200 10</size>
               <pos>0 0 0</pos>
             </heightmap>
