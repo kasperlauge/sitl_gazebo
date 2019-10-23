@@ -246,7 +246,7 @@
           <depthImageTopicName>depth/image_raw</depthImageTopicName>
           <depthImageInfoTopicName>depth/camera_info</depthImageInfoTopicName>
           <pointCloudTopicName>depth/points</pointCloudTopicName>
-          <frameName>camera_${camera_suffix}_link</frameName>
+          <frameName>camera_red_iris_link</frameName>
           <pointCloudCutoff>0.5</pointCloudCutoff>
           <pointCloudCutoffMax>20.0</pointCloudCutoffMax>
           <hackBaseline>0.0</hackBaseline>
